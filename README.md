@@ -1,0 +1,1 @@
+Implemented intelligent agents for the classic Pac-Man game using search algorithms, adversarial planning, and probabilistic reasoning. Applied techniques such as A*, minimax with alpha-beta pruning, and Bayesian inference to solve pathfinding, decision-making.
